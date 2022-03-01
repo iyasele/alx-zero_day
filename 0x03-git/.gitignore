@@ -8,7 +8,7 @@ $ git status
 #	lib.a
 #	src/internal.o
 [...]
-$cat  .git/info/exclude
+$cat  .git/info/exclude ~
 # ignore objects and archives, anywhere in the tree.
 *.html
 #except foo.html which is maintained by hand
